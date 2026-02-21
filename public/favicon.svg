@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <!-- Fondo redondeado color primario (#e0a641) -->
+  <rect width="32" height="32" rx="6" fill="#e0a641"/>
+  <!-- Icono BarChart3 en color slate-950 -->
+  <line x1="9"  y1="24" x2="9"  y2="20" stroke="#0f172a" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="16" y1="24" x2="16" y2="13" stroke="#0f172a" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="23" y1="24" x2="23" y2="7"  stroke="#0f172a" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
